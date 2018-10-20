@@ -1,5 +1,6 @@
 # SmartTrough
 A 2018-2019 JMU ISAT Capstone project.
+
 These Python Files are using in order to initiate a transfer of data between an Arduino UNO and a Raspberry Pi 0 W. The medium that is used to instantiate data transfer is with a device called the XBEE Pro S3B. 
 
 serial_test.py is a script that will allow for the data read from the Arduino to be sent through the serial interface and received by the RPi 0 W.
